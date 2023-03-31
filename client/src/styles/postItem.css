@@ -1,0 +1,244 @@
+/* .post-item {
+    padding: 10px;
+    margin-top: 1px;
+    width: 400px;
+    height: 300px;
+
+    background-color: #ada0a0;
+    border-radius: 8px;
+    margin-left: 30px;
+  }
+
+  .flex-sm80{
+    padding: 10px;
+    margin-top: -15px;
+    margin-left: -10px;
+    width: 100%;
+    margin-top: 1px;
+  }
+  
+  .post-item img {
+    width: 100%;
+    height:100px;
+    object-fit: cover;
+    margin-top: -15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+
+
+.name{
+  margin-top: -25px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.moment {
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.titlePostItem{
+  margin-top: 3px;
+  text-align: center;
+
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.buttonsPostItem {
+  margin-top: 0px;
+  text-decoration: none;
+}
+
+.buttonEye{
+  margin-left: 62px;
+  width: 90px;
+  background-color: #dde0c4;
+}
+
+.buttonEye:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
+
+.buttonMessage{
+  margin-left: 100px;
+  width: 90px;
+  background-color: #dde0c4;
+}
+
+.buttonMessage:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
+.divPost{
+  padding: 10px;
+  margin-top: -10px;
+  width: 400px;
+  margin-left: -10px;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+
+  margin: 5px 0;
+  overflow: hidden;
+  margin-top: 1px;
+}
+
+
+a:hover {
+  color: #b6b89b;
+}
+
+
+.post-item p {
+  margin: 5px 0;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; 
+  -webkit-box-orient: vertical;
+  margin-left: 18px;
+}
+
+.texted {
+  color: #2e5021 ;
+} */
+
+
+/* .post-item {
+    padding: 10px;
+    margin-top: 1px;
+    width: 400px;
+    height: 300px;
+
+    background-color: #ada0a0;
+    border-radius: 8px;
+    margin-left: 30px;
+  } */
+
+  .flex-sm80{
+    padding: 10px;
+    margin-top: -15px;
+    margin-left: -10px;
+    width: 100%;
+    margin-top: 1px;
+  }
+  
+  .post-item img {
+    width: 100%;
+    height:100px;
+    object-fit: cover;
+    margin-top: -15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+
+
+.name{
+  margin-top: -25px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.moment {
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.titlePostItem{
+  margin-top: 3px;
+  text-align: center;
+
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.buttonsPostItem {
+  margin-top: 0px;
+  text-decoration: none;
+}
+
+.buttonEye{
+  margin-left: 62px;
+  width: 90px;
+  background-color: #dde0c4;
+}
+
+.buttonEye:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
+
+.buttonMessage{
+  margin-left: 100px;
+  width: 90px;
+  background-color: #dde0c4;
+}
+
+.buttonMessage:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
+.divPost{
+  padding: 10px;
+  margin-top: -10px;
+  width: 400px;
+  margin-left: -10px;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+
+  margin: 5px 0;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 33; 
+  -webkit-box-orient: vertical;
+  margin-top: 1px;
+}
+
+
+a:hover {
+  color: #b6b89b;
+}
+
+
+.post-item p {
+  margin: 5px 0;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; 
+  -webkit-box-orient: vertical;
+  margin-left: 18px;
+}
+
+.texted {
+  color: #2e5021 ;
+}
+
+
+.post-item {
+  padding: 10px;
+  margin-top: 1px;
+  width: 400px;
+  height: 300px;
+  background-color: #ada0a0;
+  border-radius: 8px;
+  margin: 0 auto; /* добавляем эту строку */
+}

@@ -1,0 +1,56 @@
+   .form {
+    /* align-items: center; */
+    margin-top: 70px;
+  }
+  
+  .label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #954040;
+  }
+  
+
+
+
+  .inputOne {
+    margin-top: 10px;
+    border: 2px solid #b45959;
+    width: 210px;;
+  }
+  
+  .inputTwo {
+    padding: 10px;
+    margin-left: 0px;
+    margin-top: 10px;
+    border: 2px solid #b45959;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 210px;;
+  }
+
+
+
+
+.buttonRegistration {
+  /* padding: 11px; */
+  margin-top: 0px;
+  margin-left: 115px;
+  background-color: #954040;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.linkLogin {
+  text-decoration: none;
+  padding: 10.5px;
+  margin-top: 10px;
+  margin-left: 108px;
+  background-color: #706565;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 180px;
+}

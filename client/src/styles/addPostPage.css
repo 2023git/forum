@@ -1,0 +1,112 @@
+.whole {
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+  height: 70vh;
+  margin-left: -70px;
+  margin-top: 0px;
+
+  /* text-align: center; */
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  height: 670px;
+}
+
+
+
+
+.post-image {
+  height: 250px;
+  width: 400px
+}
+
+
+
+
+
+
+
+
+
+
+
+.head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+
+  }
+  
+  .header {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  width: 210px;
+  height: 100px;
+  margin-top: 10px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+  input[type="text"], 
+  textarea {
+  width: 300px;
+  height: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 5px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  margin-top: 20px;
+  display: flex;
+  }
+  
+  .textPost {
+  height: 150px;
+  width: 300px;
+  height: 30px;
+  padding: 10px;
+  }
+
+
+
+
+
+
+  .buttonAddAll {
+    display: flex;
+  }
+  
+  .buttonAddOne {
+    margin-right: 60px;
+    background-color: #b9b4b4;
+    margin-left: 1px;
+    width: 170px;
+  }
+  
+  .buttonAddTwo {
+    width: 170px;
+    background-color: #b9b4b4;
+  }
+  
+  .buttonAddOne:hover{
+    color: #786969;
+    background-color: #a19ca1;
+  }
+  
+  .buttonAddTwo:hover{
+    color: #786969;
+    background-color: #a19ca1;
+  }

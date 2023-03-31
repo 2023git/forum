@@ -1,0 +1,164 @@
+/* label input[type="file"] {
+  display: none;
+  background-color: antiquewhite
+}
+
+
+button {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+
+
+
+.inputEdit {
+  width: 300px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 3rem;
+  text-align: center;
+  margin-left: 612px;
+}
+
+.labe {
+  width: 300px;
+  padding: 0.5rem;
+  border: 1px solid #cf4a4a;
+  border-radius: 0.25rem;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 3rem;
+  text-align: center;
+  margin-left: 612px;
+}
+
+.upd{
+  margin-left: 607px;
+}
+
+.upda{
+  margin-left: 1px;
+  margin-right: 14px;
+  width: 155px;
+}
+
+.updat{
+  margin-left: 1px;
+  width: 155px;
+}
+
+.img {
+  margin-left: 690px;
+}
+
+.imgD {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-left: 100px;
+}
+
+.imgD img {
+  max-width: 30%;
+  max-height: 400px;
+  object-fit: contain;
+  margin: 10px;
+  margin-left: -15px;
+} */
+
+
+/* .parent {
+  text-align: center;
+} */
+
+
+
+label input[type="file"] {
+  display: none;
+  background-color: antiquewhite;
+
+}
+
+button {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.editButton {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inputEdit {
+  width: 300px;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 3rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textPost {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 3rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.upd{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.upda{
+  margin-left: 1px;
+  margin-right: 14px;
+  width: 155px;
+}
+
+.updat{
+  margin-left: 1px;
+  width: 155px;
+}
+
+.imageAdd {
+  display: none;
+  background-color: antiquewhite;
+}
+
+.imagePost {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.imagePost img {
+  max-height: 400px;
+  object-fit: contain;
+  margin: 10px;
+  margin-left: -15px;
+
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
