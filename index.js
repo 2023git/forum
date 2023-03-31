@@ -31,7 +31,6 @@ async function start() {
   try {
     await mongoose.connect(
       `${MONGO_DB}`
-      // `mongodb+srv://bestitcompany2023:hkwxxHCMAvxHe6zo@hog.ycrtl5j.mongodb.net/?retryWrites=true&w=majority`
     );
 
     app.listen(PORT, () => console.log(`Server started on port: ${PORT}`));
