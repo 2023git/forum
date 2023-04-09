@@ -30,7 +30,7 @@ export const Main = () => {
 <div >
     
     <div className="text-container" >
-
+555
     Skyscrapers, neon lights, thumping music, street-hardened citizens and a host of socioeconomic 
            inequalities—this is Night City, home of the powerful mega corporations and the no-nonsense street gangs. 
            It’s also the setting of “Cyberpunk: Edgerunners,” an R-rated Netflix original anime that was released on Sept. 13.
