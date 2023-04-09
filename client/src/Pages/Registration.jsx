@@ -39,7 +39,7 @@ export const Registration = () => {
       <label className="label">
         Имя пользователя:
         <input
-          className="inputOne"
+         className="inputOne"
           type="text"
           value={email}
           onChange={(event) => setEmail(event.target.value)}
@@ -70,3 +70,4 @@ export const Registration = () => {
     </form>
   );
 };
+
