@@ -1,0 +1,115 @@
+   /* .form {
+    margin-top: 70px;
+  }
+  
+  .label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #3f3636;
+  }
+  
+
+
+
+  .inputOne {
+    margin-top: 10px;
+    border: 2px solid #b45959;
+    width: 210px;
+    margin-left: 10px;
+  }
+
+
+  .inputOne {
+    margin-left: 0px;
+  }
+  
+  .inputTwo {
+    padding: 10px;
+    margin-left: 0px;
+    margin-top: 10px;
+    border: 2px solid #b45959;
+    border-radius: 4px;
+    font-size: 16px;
+    width: 210px;;
+  }
+
+
+
+
+.buttonRegistration {
+  padding: 11px;
+  margin-top: 0px;
+  margin-left: 15px;
+  background-color: #954040;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.linkLogin {
+  text-decoration: none;
+  padding: 10.5px;
+  margin-top: 10px;
+  margin-left: 18px;
+  background-color: #706565;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 180px;
+} */
+
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.inputOne, .inputTwo {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 5px;
+  font-size: 16px;
+  width: 300px;
+}
+
+.inputOne:focus, .inputTwo:focus {
+  outline: none;
+  border-color: #00bfff;
+}
+
+.buttonRegistration {
+  background-color: #00bfff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.linkLogin {
+  margin-top: 20px;
+  color: #00bfff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.regOne {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Add more styles as needed */
