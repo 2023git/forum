@@ -110,7 +110,7 @@ export const PostPage = () => {
                              {post?.imgUrl && (
                                 <img
                                     className='img'
-                                    src={`http://localhost:4000/${post.imgUrl}`}
+                                    src={`https://forum-alpha.vercel.app/${post.imgUrl}`}
                                     alt='img'
                                     
                                 /> 
