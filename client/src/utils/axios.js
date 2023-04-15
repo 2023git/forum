@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "forum-8ikieug3k-leon2021new.vercel.app/api",
+  baseURL: "https://forum-alpha.vercel.app/api",
 });
 
 instance.interceptors.request.use((config) => {
