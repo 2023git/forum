@@ -1,0 +1,64 @@
+   .allRegistration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    text-align: center;
+   }
+   
+   .allFormRegistration{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+   
+  }
+  
+.labelRegistration {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #3f3636;
+  }
+
+
+
+.inputRegistraion {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 300px;
+  margin-top: 20px;
+
+}
+
+.inputPasswordRegistration {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 300px;
+
+  margin-top: 20px;
+}
+
+
+.buttonRegistration {
+  background-color: #008CBA;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: -10px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 175px;
+  margin-top: 20px;
+}
+
+.linkLoginRegistration {
+  color: #00bfff;
+  text-decoration: none;
+              margin-top: 30px;
+}

@@ -1,0 +1,140 @@
+.wholeAddPostPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formAddPostPage {
+  display: flex;
+  flex-direction: column;
+}
+
+.wholeAddPostpage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  background-color: #171813;
+  border-radius: 10px;
+            width: 400px;
+}
+
+.imageAddPostPage {
+width: 400px;
+border-radius: 4px;
+}
+
+
+.imageAddPost {
+  display: none;
+}
+
+
+.imageHeaderAddPostPage {
+  font-size: 1.1rem;
+  color: #999;
+  margin-bottom: 25px;
+}
+
+
+.headerAddPostPageMain {
+  margin-bottom: 1rem;
+  color: #999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.headerAddPostPage {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  margin-bottom: 25px;
+}
+
+
+.inputHeaderAddPost::placeholder {
+  text-align: center;
+}
+
+
+.inputHeaderAddPost {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  margin-top: 10px;
+  border-radius: 4px;
+  width: 400px;
+  background-color: #3f433f;
+}
+
+
+.textAddPost {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  border: none;
+  margin-top: 10px;
+  border-radius: 4px;
+  height: 150px;
+  width: 400px;
+  background-color: #3f433f;
+
+  resize: none;
+  position: relative;
+}
+
+.textAddPost::placeholder {
+  text-align: center;
+}
+
+
+.imageAddPostPage {
+  max-width: 100%;
+  margin-bottom: 1rem;
+}
+
+
+
+
+
+.buttonAddAll {
+width: 500px;
+margin-top: 10px;
+text-align: center;
+}
+
+.buttonAddPostOne{
+  background-color: #3d4646;
+  color: rgb(17, 17, 17);
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.buttonAddPostTwo {
+  background-color: #3d4646;
+  color: rgb(17, 17, 17);
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  margin-left: 130px;
+}
+
+.buttonAddPostOne:hover {
+  background-color: #5F5F5F;
+}
+
+.buttonAddPostTwo:hover {
+  background-color: #5F5F5F;
+}

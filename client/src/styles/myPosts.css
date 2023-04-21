@@ -1,0 +1,37 @@
+/* .text-cont {
+  background-color: #171813;
+  padding: 20px;
+  border-radius: 5px; 
+
+  font-size: 20px;
+  color: rgb(217, 205, 182);
+  margin-top: 1%; 
+  margin-bottom: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+} 
+
+
+
+.parent-container{
+
+
+} */
+
+
+
+
+.parent-container {
+  display: grid; /* Use CSS Grid to create a grid container */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Define grid columns with minimum width of 200px and maximum width of 1fr */
+  gap: 20px; /* Add gap between grid items to create spacing */
+}
+
+.myPosts {
+  /* You can remove margin-bottom if you want to evenly distribute the posts */
+  /* margin-bottom: 20px; */
+  /* Allow the posts container to expand and fill available space */
+  /* flex: 1; */
+}
+
+

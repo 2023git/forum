@@ -1,0 +1,211 @@
+div {
+  margin-top: 20px;
+}
+
+
+.backPostPages{
+  background-color: #4e1d1d;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  width: 52px;
+  margin-left: 15px;
+}
+
+.backPostPages:hover {
+  background-color: #388e3c;
+  color: #fff;
+}
+
+
+/* ______image_____ */
+.img {
+  width: 40%;
+}
+
+.postImage {
+  margin-top: 40px;
+  text-align: center;
+}
+
+
+.username {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+
+
+.date {
+  font-size: 1.3rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+
+
+
+
+.allPostPage {
+        max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #1e1a1a;
+}
+
+
+
+
+.titlePostPage {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+
+.postPageContainer {
+  background-color: #171813;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid  rgb(216, 104, 39);
+}
+
+.textPostPage {
+  line-height: 1.5;
+  max-width: 100%;
+  margin-left: 30px;
+
+  text-align: left; 
+  white-space: pre-line;
+  font-size: 18px;
+  color: #899396;
+  margin-top: 10px;
+} 
+
+
+
+
+
+
+.textHolder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #a09999;
+}
+
+.inputTextPostpage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+
+
+.buttonCommentPostPage {
+  background-color: #3d4646;
+  color: #121111;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  border: 1px solid #8c8383;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.buttonCommentPostPage:hover {
+  border-color: #e2f093;
+  background-color: #5F5F5F;
+}
+
+
+
+.button {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  color: #121111;
+  padding: 3px;
+  background-color: #545b55;
+  border-radius: 12px;
+  font-size: 19px;
+  margin: 4px 2px;
+}
+
+
+.button span {
+  margin-left: 5px;
+}
+
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.buttons-wrapper {
+  display: flex;
+}
+
+
+
+
+.textCommentPostPage {
+  width: 50%;
+  height: 100px;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #f10e0e;
+  font-size: 1.2rem;
+                    background-color: #3f433f;
+
+                    resize: none;
+                    position: relative;
+}
+
+
+.textCommentPostPage::placeholder {
+  position: absolute;
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%);
+  color: #999;
+}
+
+
+.comment {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #899396;
+
+
+  /* display: flex; */
+  /* align-items: center; */
+  width: 700px;
+
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+
+
+.commentLayout {
+  margin-bottom: 50px;
+}
