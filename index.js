@@ -14,7 +14,7 @@ dotenv.config();
 // Constants
 
 const MONGO_DB = process.env.MONGO_DB;
-const PORT = 4000;
+const PORT = 8080;
 
 // Middleware
 app.use(cors());
