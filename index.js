@@ -16,7 +16,7 @@ dotenv.config();
 const MONGO_DB = process.env.MONGO_DB;
 const PORT = 8080;
 
-// Middleware
+// Middleware   
 app.use(cors());
 app.use(fileUpload());
 app.use(express.json());
