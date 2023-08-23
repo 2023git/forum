@@ -5,7 +5,7 @@ import { checkIsAuth, login } from '../redux//auth'
 import { toast } from 'react-toastify'
 
 import "../styles/login.css";
- 
+  
 export const Login = () => { 
   const [email, setEmail] = useState('')
   const [password, setpassword] = useState('')
