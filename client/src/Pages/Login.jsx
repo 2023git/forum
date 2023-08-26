@@ -11,7 +11,7 @@ export const Login = () => {
   const [password, setpassword] = useState('')
  
   const { status } = useSelector((state) => state.auth)
-  const isAuth = useSelector(checkIsAuth)
+  const isAuth = useSelector(checkIsAuth) 
   const dispatch = useDispatch()
   const navigate = useNavigate()
 
