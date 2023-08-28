@@ -28,7 +28,7 @@ export const PostItem = ({ postW }) => {
                 >
                     {postW.imgUrl && (
                         <img
-                            src={`http://localhost:4000/${postW.imgUrl}`}
+                            src={`https://forum-alpha.vercel.app/${postW.imgUrl}`}
                             alt='img'
                             className=' '
                         />
