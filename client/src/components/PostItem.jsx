@@ -10,7 +10,7 @@ export const PostItem = ({ postW }) => {
         return (
             <div>
                 {/* Загрузка... */} 
-            </div> 
+            </div>  
         ) 
     }
     return (
